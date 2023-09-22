@@ -1,0 +1,1204 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.header{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: white;  
+}
+nav{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+.section{
+    margin-left: 8%;
+    margin-top: 15%;
+}
+.section h1{
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    color: blue;
+   font-size: 50px;
+    
+}
+.section p{
+    position: absolute;
+    top:336px;
+    left: 50px;
+    color: black;
+}
+.rectangle1{
+    position: absolute;
+    width: 201px;
+    height: 63px;
+    left: 50px;
+    top: 446px;
+    background: blue;
+   border-radius: 20px;
+}
+.rectangle1 h2{
+    position: absolute;
+    color: white;
+    left: 40px;
+    top: 16px;
+}
+.d{
+    position: absolute;
+width: 79px;
+height: 0px;
+left: 50px;
+top: 579px;
+
+border: 10px solid #2F64EA;
+}
+
+
+.section h2{
+    position: absolute;
+width: 94px;
+height: 38px;
+left: 54px;
+top: 599px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.d2{
+    
+position: absolute;
+width: 79px;
+height: 0px;
+left: 240px;
+top: 579px;
+
+border: 10px solid #000206;
+}
+.section h3{
+    position: absolute;
+width: 99px;
+height: 19px;
+left: 240px;
+top: 599px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.d3{
+        
+position: absolute;
+width: 79px;
+height: 0px;
+left: 440px;
+top: 579px;
+
+border: 10px solid #000206;
+}
+.section h4{
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 440px;
+    top: 599px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #000000;
+    
+
+}
+.d4{
+    position: absolute;
+width: 79px;
+height: 0px;
+left: 640px;
+top: 579px;
+
+border: 10px solid #024fe7;
+}
+.section h5{
+    position: absolute;
+    width: 99px;
+    height: 19px;
+    left: 640px;
+    top: 599px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #024fe7;
+}
+.section2 h1{
+    position: absolute;
+    color: blue;
+    font-size: 50px;
+    top: 718px;
+    left: 578px;
+}
+.section2 p{
+    position: absolute;
+    color: black;
+    font-size: 30px;
+    top: 822px;
+    left: 578px;
+}
+.rectangle2{
+    position: absolute;
+    width: 1124px;
+    height: 417px;
+    left: 117px;
+    top: 1057px;
+    background: blue;
+border-radius: 30px;
+}
+.rectangle2 h1{
+    position: absolute;
+    color: white;
+    left: 100px;
+    top: 64px;
+}
+.rectangle2 p{
+    position: absolute;
+    color: white;
+    left: 100px;
+    top: 154px;
+    font-size: 30px;
+}
+.micro{
+    position: absolute;
+    left: 50px;
+    top: 280px;
+    height: 42px;
+    width: 189px;
+}
+.sav{
+    position: absolute;
+    left: 282px;
+    top: 280px;
+    height: 42px;
+    width: 189px;
+}
+.sail{
+    position: absolute;
+    left: 500px;
+    top: 280px;
+    height: 42px;
+    width: 189px; 
+}
+.ok{  
+     position: absolute;
+    left: 707px;
+    top: 290px;
+    height: 25px;
+    width: 134px;
+}
+.beyond{
+    position: absolute;
+    left: 864px;
+    top: 280px;
+    height: 42px;
+    width: 189px;
+}
+.section2 h2{
+    position: absolute;
+    color: blue;
+    left: -46px;
+    top: 500px;
+    
+}
+.section2 h6{
+    position: absolute;
+    color: blue;
+    left: 50px;
+    top: 1581px;
+    font-size: 40px;
+}
+.rectangle3{
+    
+position: absolute;
+width: 250px;
+height: 344px;
+left: 817px;
+top: 1581px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.eye{
+    position: absolute;
+    width: 121px;
+    height: 118px;
+    top: 88px;
+    left: 73px;
+}
+
+.rectangle3 h6{
+    position: absolute;
+    width: 220px;
+    height: 117px;
+    left: 39px;
+    top: 236px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #0B0101;
+    
+
+}
+.rectangle4{
+    position: absolute;
+width: 250px;
+height: 344px;
+left: 1084px;
+top: 1581px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+}
+.lock{
+    position: absolute;
+    width: 121px;
+    height: 118px;
+    top: 88px;
+    left: 73px;
+}
+.rectangle4 h6{
+    position: absolute;
+width: 220px;
+height: 117px;
+left: 60px;
+top: 236px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #0B0101;
+
+}
+.rectangle5{
+    position: absolute;
+width: 250px;
+height: 344px;
+left: 817px;
+top: 2000px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.shield{
+    position: absolute;
+    width: 121px;
+    height: 118px;
+    top: 88px;
+    left: 73px;
+
+}
+.rectangle5 h6{
+    position: absolute;
+width: 220px;
+height: 117px;
+left: 39px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #0B0101;
+
+}
+.rectangle6{
+    position: absolute;
+width: 250px;
+height: 344px;
+left: 1084px;
+top: 2000px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.set{
+    position: absolute;
+    width: 121px;
+    height: 118px;
+    top: 88px;
+    left: 73px;
+}
+
+
+.rectangle6 h6{
+    position: absolute;
+    width: 220px;
+    height: 117px;
+    left: 39px;
+    top: 248px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    
+    color: #0B0101;
+    
+}
+.rectangle7{
+    position: absolute;
+width: 250px;
+height: 344px;
+left: 530px;
+top: 2000px;
+
+background: #FFFFFF;
+border-radius: 30px;
+}
+.sky{
+    position: absolute;
+    width: 121px;
+    height: 118px;
+    top: 88px;
+    left: 73px;
+}
+    
+
+.rectangle7 h6{
+    position: absolute;
+width: 220px;
+height: 117px;
+left: 39px;
+top: 210px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #0B0101;
+
+}
+.rectangle8{
+    position: absolute;
+    width: 1086px;
+    height: 440px;
+    left: 117px;
+    top: 2515px;
+    background: rgb(253, 253, 253);
+border-radius: 30px;
+}
+.gg{
+    position: absolute;
+    height: 439px;
+    width: 507px;
+    left: 1px;
+    top: 0px;
+}
+
+.rectangle8 h5{
+    position: absolute;
+    color: blue;
+    left: 706px;
+    top: 70px;
+}
+.rectangle8 h3{
+    position: absolute;
+    color: blue;
+    left: 706px;
+    top: 103px;
+    font-weight: 30px;
+
+}
+.rectangle8 p{
+    position: absolute;
+    color: #0B0101;
+    left: 706px;
+    top: 169px;
+    font-size: 10px;
+}
+.rectangle10{
+    position: absolute;
+    width: 243px;
+    height: 44px;
+    left: 706px;
+    top: 266px;
+    background: blue;
+   border-radius: 20px;
+}
+.rectangle10 h6{
+    position: absolute;
+    color: white;
+    left: 51px;
+    top: 16px;
+    font-size: 10px;
+}
+.rectangle11{
+    position: absolute;
+    width: 1124px;
+    height: 417px;
+    left: 117px;
+    top: 3096px;
+    background: rgb(253, 253, 253);
+border-radius: 30px;
+}
+.rectangle11 h5{
+    position: absolute;
+    color: blue;
+    left: 30px;
+    top: 30px;
+}
+.proof{
+    position: absolute;
+    height: 408px;
+    width: 507px;
+    left: 600px;
+}
+.rectangle11 h3{
+    position: absolute;
+    color: blue;
+    left: 30px;
+    top: 74px;
+    font-size: 30px;
+}
+.rectangle11 p{
+    position: absolute;
+    color: #0B0101;
+    left: 30px;
+    top: 172px;
+    font-size: 20px;
+}
+.rectangle12{
+    position: absolute;
+    width: 201px;
+    height: 63px;
+    left: 30px;
+    top: 302px;
+    background: blue;
+   border-radius: 20px;
+}
+.rectangle12 h6{
+    position: absolute;
+    color: white;
+    left: 30px;
+    top: 22px;
+    font-size: 20px;
+}
+.hh{
+    position: absolute;
+    color: blue;
+    left: 97px;
+    top: 3572px;
+}
+.pp{
+    position: absolute;
+    color: blue;
+    left: 97px;
+    top: 3600px;
+    font-size: 60px;
+}
+.oo{
+    
+position: absolute;
+width: 755px;
+height: 76px;
+left: 97px;
+top: 3700px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: black;
+}
+.ll{
+    position: absolute;
+    height: 408px;
+    width: 507px;
+    left: 848px;
+    top: 3542px;
+    
+}
+.rectangle13{
+    position: absolute;
+    width: 201px;
+    height: 63px;
+    left: 107px;
+    top: 3843px;
+    background: blue;
+    border-radius: 20px;
+}
+.rectangle13 h5{
+    position: absolute;
+    color: white;
+    left: 16px;
+    top: 22px;
+    font-size: 20px;
+}
+.rect1{
+    position: absolute;
+    width: 379px;
+    height: 588px;
+    left: 75px;
+    top: 3981px;
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+.rect1 h6{
+    position: absolute;
+    color: blue;
+    left: 42px;
+    top: 20px;
+}
+.line{
+    position: absolute;
+width: 264px;
+height: 0px;
+left: 57px;
+top: 94px;
+
+border: 3px solid #000000;
+}
+.line h2{
+    position: absolute;
+width: 66px;
+height: 39px;
+left: -34px;
+top: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+
+color: #000000;
+}
+.line h3{
+    position: absolute;
+width: 199px;
+height: 156px;
+left: 69px;
+top: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+
+color: #000000;
+}
+.line2{
+    
+position: absolute;
+width: 64px;
+height: -5px;
+left: 15px;
+top: 47px;
+
+border: 3px solid #000000;
+transform: rotate(90deg);
+}
+.line3{
+    position: absolute;
+width: 64px;
+height: -5px;
+left: 157px;
+top: 47px;
+
+border: 3px solid #000000;
+transform: rotate(90deg);
+}
+.line h4{
+    position: absolute;
+width: 88px;
+height: 39px;
+left: 200px;
+top: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.line4{
+    position: absolute;
+    width: 264px;
+    height: 0px;
+    left: 57px;
+    top: 194px;
+    
+    border: 3px solid #000000;
+}
+.line5{
+    position: absolute;
+    width: 264px;
+    height: 0px;
+    left: 57px;
+    top: 94px;
+    
+    border: 3px solid #000000;
+}
+.line5 h2{
+    position: absolute;
+    width: 66px;
+    height: 39px;
+    left: -34px;
+    top: 22px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    
+    
+    color: #000000;
+}
+.line6{
+    position: absolute;
+width: 64px;
+height: -5px;
+left: 15px;
+top: 47px;
+
+border: 3px solid #000000;
+transform: rotate(90deg);
+}
+.line5 h3{
+    position: absolute;
+    width: 199px;
+    height: 156px;
+    left: 69px;
+    top: 22px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    
+    color: #000000;
+}
+.line7{
+    position: absolute;
+    width: 64px;
+    height: -5px;
+    left: 157px;
+    top: 47px;
+    
+    border: 3px solid #000000;
+    transform: rotate(90deg);
+}
+.line5 h4{
+    position: absolute;
+    width: 88px;
+    height: 39px;
+    left: 200px;
+    top: 22px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+}
+.line8{
+    position: absolute;
+    width: 264px;
+    height: 0px;
+    left: 1px;
+    top: 105px;
+    
+    border: 3px solid #000000;
+}
+
+.rect1 h5{
+    position: absolute;
+width: 755px;
+height: 76px;
+left: 13px;
+top: 205px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: blue;
+}
+.rect1 p{
+    position: absolute;
+    width: 755px;
+    height: 76px;
+    left: 14px;
+    top: 296px;
+    
+  
+    font-size: 20px;
+
+    
+    color: black;
+}
+.rect2{
+    position: absolute;
+    width: 379px;
+    height: 662px;
+    left: 492px;
+    top: 3981px;
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+.rect2 h6{
+    position: absolute;
+    color: blue;
+    left: 42px;
+    top: 20px;
+}
+.rect2 h5{
+    position: absolute;
+width: 755px;
+height: 76px;
+left: 42px;
+top: 230px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: blue;
+}
+.rect2 p{
+    position: absolute;
+    width: 755px;
+    height: 76px;
+    left: 14px;
+    top: 332px;
+    
+  
+    font-size: 20px;
+
+    
+    color: black;
+}
+.rect3{
+    position: absolute;
+    width: 379px;
+    height: 662px;
+    left: 911px;
+    top: 3981px;
+    background: #FFFFFF;
+    border-radius: 30px;
+}
+.rect3 h6{
+    position: absolute;
+    color: blue;
+    left: 42px;
+    top: 20px;
+}
+.line9 {
+    position: absolute;
+    width: 264px;
+    height: 0px;
+    left: 57px;
+    top: 94px;
+    
+    border: 3px solid #000000;
+}
+.line9 h2{
+    position: absolute;
+    width: 66px;
+    height: 39px;
+    left: -34px;
+    top: 22px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    
+    
+    color: #000000;
+    }
+.line10{
+    position: absolute;
+width: 64px;
+height: -5px;
+left: 15px;
+top: 47px;
+
+border: 3px solid #000000;
+transform: rotate(90deg);
+}
+
+.line9 h3{
+    position: absolute;
+width: 199px;
+height: 156px;
+left: 69px;
+top: 22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+
+color: #000000;  
+}
+.line11{
+    position: absolute;
+    width: 64px;
+    height: -5px;
+    left: 157px;
+    top: 47px;
+    
+    border: 3px solid #000000;
+    transform: rotate(90deg);
+}
+.line9 h4{
+    position: absolute;
+    width: 88px;
+    height: 39px;
+    left: 200px;
+    top: 22px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #000000; 
+}
+.line12{
+    position: absolute;
+    width: 264px;
+    height: 0px;
+    left: 57px;
+    top: 194px;
+    
+    border: 3px solid #000000;
+}
+.rect3 h5{
+    position: absolute;
+width: 755px;
+height: 76px;
+left: 42px;
+top: 230px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: blue;
+}
+.rect3 p{
+    position: absolute;
+    width: 755px;
+    height: 76px;
+    left: 14px;
+    top: 332px;
+    
+  
+    font-size: 20px;
+
+    
+    color: black;
+
+
+}
+.rect4{
+    position: absolute;
+    width: 1107px;
+    height: 588px;
+    left: 117px;
+    top: 4736px;
+    background: white;
+    border-radius: 30px;
+}
+.rect4 h3{
+    position: absolute;
+    color: blue;
+    left: 20px;
+    top: 30px;
+}
+
+.rect4 h5{
+    position: absolute;
+    width: 755px;
+    height: 76px;
+    left: 22px;
+    top: 68px;
+    
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: blue;
+    
+
+}
+.rect9{
+    position: absolute;
+width: 47px;
+height: 40px;
+left: 30px;
+top: 352px;
+
+background: #ffffff;
+}
+.rect9 h2{
+    position: absolute;
+width: 262px;
+height: 39px;
+left: 57px;
+top: 0px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.rect10{
+    position: absolute;
+    width: 47px;
+    height: 40px;
+    left: 290px;
+    top: 5px;
+    
+    background: #ffffff;
+}
+.rect10 h2{
+    position: absolute;
+width: 262px;
+height: 39px;
+left: 57px;
+top: 0px;
+
+
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.rect11{
+    position: absolute;
+    width: 47px;
+    height: 40px;
+    left: 30px;
+    top: 450px;
+    
+    background: #ffffff;
+}
+.rect11 h2{
+    position: absolute;
+    width: 262px;
+    height: 39px;
+    left: 57px;
+    top: 0px;
+    
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.rect12{
+    position: absolute;
+    width: 47px;
+    height: 40px;
+    left: 327px;
+    top: 449px;
+    
+    background: #ffffff;
+}
+.rect12 h2{
+    position: absolute;
+    width: 262px;
+    height: 39px;
+    left: 57px;
+    top: 0px;
+    
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.rect5{
+    position: absolute;
+    width: 529px;
+    height: 50px;
+    top: 123px;
+    left: 54px;
+    background: white;
+    border-radius: 20px;
+}
+.rect5 p{
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    color: #0B0101;
+    font-size: 20px;
+}
+.rect6{
+    position: absolute;
+    width: 481px;
+    height: 50px;
+    top: 123px;
+    left: 617px;
+    background: white;
+    border-radius: 20px;
+
+}
+.rect6 p{
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    color: #0B0101;
+    font-size: 20px;
+}
+.rect7{
+    position: absolute;
+    width: 529px;
+    height: 50px;
+    top: 200px;
+    left: 54px;
+    background: white;
+    border-radius: 20px;
+}
+.rect7 p{
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    color: #0B0101;
+    font-size: 20px;
+}
+.rect8{
+    position: absolute;
+    width: 481px;
+    height: 144px;
+    top: 200px;
+    left: 617px;
+    background: white;
+    border-radius: 20px;
+}
+.rect8 p{
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    color: #0B0101;
+    font-size: 20px;
+}v
+.rect4 h6{
+    position: absolute;
+    width: 755px;
+    height: 76px;
+    left: 14px;
+    top: 332px;
+    font-size: 20px;
+    color: black;
+}
+.rect18{
+    position: absolute;
+    width: 157px;
+    height: 49px;
+    left: 827px;
+    top: 500px;
+    background: blue;
+    border-radius: 20px;
+}
+.rect18 h5{
+    position: absolute;
+    left: 37px;
+    top: 14px;
+    color: #ffffff;
+ 
+}
